@@ -1,5 +1,42 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+.p-color{
+    color: blue;
+}
 
+.p-color2{
+   color: red;
+}
+
+nav{
+   font-size: 40px;
+}
+
+#google{
+    background-color: green !important;
+   color: white; 
+   font-weight: bold;
+   font-size: large;
+}
+
+#facebook{
+    background-color: blue !important;
+   color: white;
+   font-weight: bold;
+   font-size: large;
+}
+
+#youtube{
+    background-color: red !important;
+   color: white;
+   font-weight: bold;
+   font-size: large;
+}
+
+.ending{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
 
 
 
